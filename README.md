@@ -1,29 +1,11 @@
-# Free Resume Theme by PixelPaul
+# Draco
+A free PSD & HTML resume template.
+See the demo [here](http://draco.afnizarnur.com/) and download the latest release [here](https://github.com/afnizarnur/draco/releases).
+![Draco](https://cloud.githubusercontent.com/assets/4648648/26038614/72fe3772-3936-11e7-8f88-3781aea67bdc.png)
 
-Free Resume Theme is a simple, modern and personal Resume/CV HTML Template with a unique design, whether you are a designer, programmer or manager.
+## License
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
 
-![Free Responsive Resume Theme](/../master/overview.jpg?raw=true)
+Draco is licensed under Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Which means that you are free to copy and redistribute the material in any medium or format and remix, transform, and build upon the material.
 
-## Main Features
-
-* Retina Ready
-* Fully Responsive
-* 2 versions of layout - boxed and full-width
-* 8 theme colors
-* RTL version
-* 20 custom backgrounds
-* Fancy Contact Form
-* Simple & Easy to Use/Customize
-* Amazing CSS3 and SVG Effects/Animations
-* Optimized Code
-* Simple Line Icons
-* Clean Design
-* Google Web Fonts
-
-## Theme demo
-
-Live demo available on http://demo.pixelpaul.me/free-resume-theme/
-
-## Theme preview
-
-![Free Responsive Resume Theme](/../master/preview.jpg?raw=true)
+This template is designed and developed by Afnizar Nur Ghifari.
